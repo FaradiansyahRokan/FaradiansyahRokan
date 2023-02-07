@@ -14,7 +14,6 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 - Android :robot:
 - Open source :octocat:
-- Website :HTML:
 
 ## Get in touch :coffee:
 
