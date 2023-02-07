@@ -1,6 +1,7 @@
 # Hey there :wave:
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+![dino](https://user-images.githubusercontent.com/110968180/217149228-c5a2f4df-fe23-4d2e-a337-34d1a30991c2.gif)
 
 
 
@@ -20,9 +21,6 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 - Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@rokansubhi.f).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/faradiansyah-rokan-a18480248/)
 - And of course GitHub you're already on (Recursion).
-
-
-
 
 [![An image of @faradiansyahrokan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/faradiansyahrokan)](https://holopin.io/@faradiansyahrokan)
 
