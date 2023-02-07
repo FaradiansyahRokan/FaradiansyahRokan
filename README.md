@@ -1,7 +1,8 @@
 # Hey there :wave:
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-![dino](https://user-images.githubusercontent.com/110968180/217149228-c5a2f4df-fe23-4d2e-a337-34d1a30991c2.gif)
+
+![dino](https://user-images.githubusercontent.com/110968180/217149429-99e76ac6-18ae-4c25-8b37-64468c9b6162.gif)
 
 
 
