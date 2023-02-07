@@ -6,8 +6,7 @@
 
 ## About me
 
-I'm Rokan Subhi Faradiansyah. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
-
+I'm Rokan Subhi Faradiansyah. A Student At IDNBS Bogor. An Software Engineer at IDN
 I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
 
 
@@ -15,10 +14,11 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 - Android :robot:
 - Open source :octocat:
+- Website :HTML:
 
 ## Get in touch :coffee:
 
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@).
+- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@rokansubhi.f).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/faradiansyah-rokan-a18480248/)
 - And of course GitHub you're already on (Recursion).
 
